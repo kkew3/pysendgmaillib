@@ -1,0 +1,9 @@
+MANIFEST.in
+README.txt
+setup.py
+pysendgmaillib/__init__.py
+pysendgmaillib/pysendgmaillib.py
+pysendgmaillib.egg-info/PKG-INFO
+pysendgmaillib.egg-info/SOURCES.txt
+pysendgmaillib.egg-info/dependency_links.txt
+pysendgmaillib.egg-info/top_level.txt
